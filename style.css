@@ -1,0 +1,53 @@
+body{
+    text-align: center;
+    background-color:brown;
+}
+
+h1{font-size: 5rem;
+color: red;
+color: #DBEDF3;
+font-family: 'Pixelify Sans', cursive;
+text-shadow: 3px 0 #DA0463
+
+}
+
+.piano{background-color:skyblue;
+
+    
+        
+        border: 10px solid #404B69;
+        font-size: 5rem;
+        font-weight: 700;
+        
+        border-radius: 15px;
+        display: inline-block;
+        width: 180px;
+        height: 150px;
+        text-align: center;
+        margin: 10px;
+        text-shadow: 3px 0 #DBEDF3;
+        
+        
+      }
+
+.pressed {
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+  }
+
+  footer {
+    color: yellow;
+    font-family: sans-serif;
+    margin-top: 200px;
+  }
+
+.manual{background-color: aqua;
+width: 400px;
+height:150px;
+
+margin-left:70vh;
+}
+
+
+
+
